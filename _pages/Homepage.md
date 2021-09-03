@@ -30,52 +30,58 @@ diversity, and justice in the mathematics community.
 
 # Splendor
 
-A [markdown theme](https://markdowncss.github.io) that is absolutely splendid.
+[Splendor](https://github.com/markdowncss/splendor) is the second of many stylesheets to make HTML generated from
+markdown look beautiful. A list of all available stylesheets can be found [here](https://github.com/markdowncss).
 
-## Installation
+#### A markdown theme that is absolutely _splendid_.
 
-#### Through npm:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vehicula pharetra ultricies. Cras magna turpis,
+vestibulum ut arcu et, rutrum porta velit. Curabitur luctus erat a velit tincidunt, vel malesuada nibh tempor.
+Mauris condimentum quam lorem, in finibus eros faucibus id. Nunc erat metus, fringilla dignissim faucibus id,
+malesuada quis justo.
 
+  > Vestibulum erat augue, feugiat vitae porttitor vel, condimentum quis ipsum. Etiam sagittis eros et dolor
+  semper congue.
+
+Curabitur ac euismod turpis. Maecenas gravida viverra augue quis scelerisque. Vivamus quis massa elementum odio
+pharetra efficitur at eget nibh. Donec varius purus quis nisi gravida tristique. Quisque dictum justo nec nulla
+hendrerit aliquet.
+
+<div>
+  <img src="https://cloud.githubusercontent.com/assets/1424573/4785631/dc5ddcd2-5d82-11e4-88a2-06fdabbe4fb8.png">
+</div>
+
+Duis ac ultrices nunc. Proin elit augue, fringilla at varius at, interdum ut justo. Sed sed eros a leo molestie
+bibendum. Nullam ac justo malesuada, euismod dui at, finibus purus. Sed mi risus, porta ac sem ac, commodo
+semper risus.
+
+#### Some example code:
+
+```js
+gulp.task('watch', function() {
+  gulp.watch('*.md', function() {
+    gulp.start('md', 'html');
+  });
+
+  gulp.watch('*.css', function() {
+    gulp.start('css');
+  });
+});
 ```
-npm install --save markdown-splendor
-```
 
-This theme integrates well with `rework-npm`, and has rework CSS available in the index.css file.
+#### Lists
 
-#### Clone the repo:
+  * Apples
+  * Citrus
+    * Oranges
+    * Grapefruit
+  * Potatoes
+  * Milk
 
-```
-git clone https://github.com/markdowncss/splendor.git
-```
+  1. Mow the lawn
+  2. Feed the dog
+  3. Dance
 
-#### Development:
-
-```
-git clone https://github.com/markdowncss/splendor.git && cd splendor
-npm install
-gulp
-```
-
-## Usage
-
-Link the file in your Markdown to HTML build process:
-
-```html
-<link rel="stylesheet" href="path/to/css/splendor.css">
-```
-
-## License
-
-MIT
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
-
-Crafted with <3 by [John Otander](http://johnotander.com) ([@4lpine](https://twitter.com/4lpine)).
+Crafted with <3 by [John Otander](http://johnotander.com)([@4lpine](https://twitter.com/4lpine)).
 
 Before coming to UC, Berkeley I was a graduate student at the University of Wisconsin, Madison
