@@ -1,7 +1,3 @@
----
-permalink: /robots.txt
----
 User-agent: *
-Disallow:
-
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Disallow: /blogarchives/
+Disallow: /notes/2013/10/08/thoughts-about-professional-online-identities/
