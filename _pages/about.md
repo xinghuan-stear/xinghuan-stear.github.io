@@ -4,6 +4,7 @@ title: About This Site
 description: Credits and information about this website.
 permalink: /about/
 ---
+### This site is:
 
 -   Licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
 -   Marked up with [W3C validated HTML5](http://validator.w3.org/check?uri=http%3A%2F%2Fjmcglone.com%2F "HTML5 Validator")
