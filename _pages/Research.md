@@ -4,18 +4,18 @@ title: Research
 permalink: /Research/
 ---
 
-## Research interesting
+### Research interesting
 
 *This is supposed to be an explanation of my research interesting.*
 
-## Expository writing
+### Expository writing
 
 *There should be a list of my expository writings.*
 
-## Publications 
+### Publications 
 
 *There should be a list of my published research writings.*
 
-## Preprints 
+### Preprints 
 
 *There should be a list of my unpublished research writings.*
