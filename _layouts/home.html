@@ -1,14 +1,20 @@
 ---
 layout: default
 ---
-
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-lg-5">
-		  <img  class="img-circle avatar" alt="Juliette Bruce" src="img/jmcglone-200px.png">
+<div class="notes">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-5">
+				<img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.image }}">
+				{% if page.address %}
+					<div class="address">
+						{{ page.address }}
+					</div>
+				{% endif %}
+			</div>
+			<div class="notebody">
+				{{ content }}
+			</div>
 		</div>
-    <div class="clearfix">
-      {{ content }}
-    </div>
 	</div>
 </div>
