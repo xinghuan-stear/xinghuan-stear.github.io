@@ -4,19 +4,14 @@ title: Homepage
 permalink: /
 ---
 
-# A blank home page.
+# Gau-Syu
 
-**Is this blod?**
+*This is a temp site for test purpose.*
 
-My research interests lie in algebraic geometry, commutative
-algebra, and arithmetic geometry. In particular, I am interested in
-using homological methods to study the geometry of zero loci of
-systems of polynomials (i.e. algebraic varieties). I am also
-interested in studying the arithmetic properties of varieties over
-finite fields. Further, I am passionate about promoting inclusivity,
-diversity, and justice in the mathematics community.
+Here should be some words to **introduce** myself.
 
+Then here should be more words to show my **interesting**.
 
-		<div class="address">
-			<p>314 Errett Cir.</p>
-		</div>
+Then here may be a list of **publications** (*but what are they?*)
+
+And a few more words on my **current lives**.
