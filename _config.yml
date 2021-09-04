@@ -20,7 +20,7 @@ future                   : true
 
 
 description              : &description "personal description"
-Profile.image            : "img/xhs.png"
+image                    : "img/xhs.png"
 
 
 # Reading Files
