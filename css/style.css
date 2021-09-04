@@ -10,12 +10,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweathe
 
 blockquote p { font-size: 16px; line-height: 1.6em; }
 
-/* unstyled list */
-.unstyled-list > ul ul {
-  padding-left: 0;
-  list-style: none;
-}
-
 /* Masthead */
 .header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; font-size: 16px; }
 
@@ -62,7 +56,12 @@ ul.listnotes li {line-height: 30px; }
 iframe {font-family: 'Merriweather', Georgia, Times; font-size: 16px;}
 
 /* About */
-.about ul.list-unstyled li { line-height: 30px; text-indent: -30px; margin-left: 30px;}
+.about ul li { 
+	line-height: 30px; 
+	text-indent: -30px; 
+	margin-left: 30px; 
+  padding-left: 0;
+  list-style: none;}
 
 /* Guides */
 .guide { width: 90%; margin: 0 auto 60px auto; line-height: 26px;}
