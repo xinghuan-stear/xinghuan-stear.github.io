@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About This Site
 description: Credits and information about this website.
 permalink: /about/
