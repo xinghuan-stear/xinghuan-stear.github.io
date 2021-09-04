@@ -10,8 +10,6 @@ locale                   : "en-US"
 title                    : "Gau-Syu"
 title_separator          : "-"
 name                     : "Xu Gao"
-description              : &description "personal description"
-image                    : "img/xhs.png"
 url                      : https://xinghuan-stear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinghuan-stear/xinghuan-stear.github.io"
@@ -21,6 +19,12 @@ words_per_minute         : 160
 future                   : true
 
 
+description              : &description "personal description"
+Profile.image            : "img/xhs.png"
+Profile.address          : >
+	<p>555 your office number</p>
+	<p>123 your address street</p>
+	<p>Your City, State 12345</p>
 
 
 # Reading Files
