@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-<div class="notes">
-	<div class="container-fluid">
-		<div class="row">
-			<div class="col-lg-5">
-				<img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.image }}">
-				{% if page.address %}
-					<div class="address">
-						{{ page.address }}
-					</div>
-				{% endif %}
-			</div>
-			<div class="clearfix">
-				{{ content }}
-			</div>
+	
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-lg-5">
+			<img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.image }}">
+			{% if page.address %}
+				<div class="address">
+					{{ page.address }}
+				</div>
+			{% endif %}
+		</div>
+		<div class="clearfix">
+			{{ content }}
 		</div>
 	</div>
 </div>
