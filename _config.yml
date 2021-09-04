@@ -18,9 +18,13 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 
-
-description              : &description "personal description"
-image                    : "img/xhs.png"
+profile:   
+    name                 : "Gau, Syu"
+    email                : "gausyu@gmail.com"
+    description          : &description "personal description"
+    image                : "img/xhs.png"
+    cv                   : "cv.pdf"
+    employer             : "UCSC"
 
 
 # Reading Files
