@@ -13,5 +13,5 @@ permalink: /about/
 -   Using typefaces [Merriweather](http://www.google.com/fonts/specimen/Merriweather "Merriweather") by [Eben Sorkin](https://plus.google.com/106288796449831139244/about "Eben Sorkin") and [Montserrat](http://www.google.com/fonts/specimen/Montserrat "Montserrat") by [Julieta Ulanovsky](http://www.zkysky.com.ar/ "ZkySky Design")
 -   Powered by [Jekyll](http://jekyllrb.com/ "Jekyll")
 -   Hosted on [GitHub](http://github.com/{{ site.repository }} "This site hosted on GitHub") thanks to [GitHub Pages](http://pages.github.com/ "GitHub Pages")
--   Thanks to [Jonathan McGlone](https:/jmcglone.com/) for developing this template. 
--   Thanks to [Deewang Bhamidipati](https://bdeewang.com/) whose site served as an inspiration for this one.
+-   Thanks to [Jonathan McGlone](https:/jmcglone.com/ "Jonathan McGlone") for developing this template. 
+-   Thanks to [Deewang Bhamidipati](https://bdeewang.com/ "Deewang Bhamidipati") whose site served as an inspiration for this one.
