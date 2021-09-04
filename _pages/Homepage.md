@@ -9,6 +9,6 @@ address: >
 	<p>Your City, State 12345</p>
 ---
 
-# xinghuan-stear
+# XingHuan
 
 This is a test site for a modified personal pages.
