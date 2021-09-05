@@ -231,3 +231,23 @@
 	 font-family: 'Font Awesome 5 Brands';
  }
  
+ .fa {
+	color: #000;
+ }
+
+ .fa-github,
+ .fa-github-alt,
+ .fa-github-square {
+	 color: $github-color;
+ }
+
+ .fa-linkedin,
+ .fa-linkedin-square {
+	 color: $linkedin-color;
+ }
+ 
+ .fa-youtube,
+ .fa-youtube-square,
+ .fa-youtube-play {
+	 color: $youtube-color;
+ }
