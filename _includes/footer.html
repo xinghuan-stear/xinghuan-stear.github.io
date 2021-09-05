@@ -4,16 +4,16 @@
 	<p><small>&copy; 
 		{{ site.name }} {{ site.time | date: '%Y' }} 
 		{% if site.profile.github %}
-			<a href="https://github.com/{{ site.profile.github }}"><i class="fab fa-github" aria-hidden="true"></i></a>
+			<a class="footericon" href="https://github.com/{{ site.profile.github }}"><i class="fab fa-github" aria-hidden="true"></i></a>
 		{% endif %}
 		{% if site.profile.youtube %}
-			<a href="https://www.youtube.com/user/{{ site.profile.youtube }}"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+			<a class="footericon" href="https://www.youtube.com/user/{{ site.profile.youtube }}"><i class="fab fa-youtube" aria-hidden="true"></i></a>
 		{% endif %}
 		{% if site.profile.pubmed %}
-			<a href="{{ site.profile.pubmed }}"><i class="ai ai-pubmed-square"></i></a>
+			<a class="footericon" href="{{ site.profile.pubmed }}"><i class="ai ai-pubmed-square"></i></a>
 		{% endif %}
 		{% if site.profile.orcid %}
-		<a href="https://orcid.org/{{ site.profile.orcid }}"><i class="ai ai-orcid-square"></i></a>
+		  <a class="footericon" href="https://orcid.org/{{ site.profile.orcid }}"><i class="ai ai-orcid-square"></i></a>
 		{% endif %}
 	</small></p>
 	</div>
