@@ -26,7 +26,7 @@ profile:
     image                : "img/xhs.png"
     cv                   : "cv.pdf"
     employer             : "UCSC"
-    orcid                : "0000-0001-8284-6955"
+    orcid                : "https://orcid.org/0000-0001-8284-6955"
 
 
 # Reading Files
