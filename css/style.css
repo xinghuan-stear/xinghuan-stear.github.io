@@ -115,3 +115,12 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;}
   font-family: 'Merriweather', Georgia, Time;
   font-size: 90%;
 }
+
+
+/* footericon */
+.footericon {
+  color: #777;
+}
+a.footericon:hover {
+	color: #428bca;
+}
