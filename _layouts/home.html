@@ -4,8 +4,10 @@ layout: default
 	
 <div class="container-fluid">
 	<div class="row">
-		<div class="col-lg-5">
-			<img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.profile.image }}">
+		<div itemscope itemtype="http://schema.org/Person">
+	  	<div class="col-lg-5">
+			  <img  class="img-circle avatar" alt="{{ site.name }}" src="{{ site.profile.image }}">
+		  </div>
 		</div>
 		<div class="clearfix">
 			{{ content }}
