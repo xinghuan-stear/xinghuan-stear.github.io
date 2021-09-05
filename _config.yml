@@ -18,7 +18,8 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 
-profile:   
+# Profile
+profile:
     name                 : "Gau, Syu"
     email                : "gausyu@gmail.com"
     description          : &description "personal description"
