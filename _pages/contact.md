@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You can get in touch with me at:
+### You can get in touch with me at:
 
 - [math.ucsc.edu/gradstudents](https://www.math.ucsc.edu/people/gradstudents.html#gao)
 - [My github](https://github.com/xinghuan-stear)
