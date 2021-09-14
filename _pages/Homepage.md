@@ -4,7 +4,7 @@ title: Homepage
 permalink: /
 ---
 
-### *Hi! This is Xu Gao, a PhD candidate in mathematics at<br> University of California, Santa Cruz.*
+### *Hi! This is Xu Gao,<br> a PhD candidate in mathematics at<br> University of California, Santa Cruz.*
 
 *This is a temp site for test purpose.*
 
