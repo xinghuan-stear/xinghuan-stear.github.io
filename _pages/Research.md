@@ -7,6 +7,7 @@ permalink: /Research/
 ### Research interesting
 
 *This is supposed to be an explanation of my research interesting.*
+$p$-adic
 
 ### Expository writing
 
